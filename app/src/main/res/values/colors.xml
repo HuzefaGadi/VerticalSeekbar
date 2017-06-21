@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="custom_button_focused">#ff00ff</color>
+    <color name="custom_button_unfocused">#ff0077</color>
+    <color name="custom_button_pressed">#ff0044</color>
+
+
+    <color name="custom_rounded_corner_button_border">#df830f</color>
+    <color name="custom_rounded_corner_button_focused">#fb8c00</color>
+    <color name="custom_rounded_corner_button_unfocused">#fb9e27</color>
+    <color name="custom_rounded_corner_button_pressed">#ff9100</color>
+</resources>
